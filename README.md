@@ -1,21 +1,37 @@
-# Inventory Management System 🧾
+# 📦 Inventory Management System (C++)
 
-A simple inventory management system built in C++ for managing basic product data such as ID, name, quantity, and price. 
+A simple console-based inventory management system built in C++.
 
-## 📌 Features
+## ✅ Features
+- ➕ Add new products
+- 📋 View all available products
+- 🔍 Search for products by ID
+- ✏️ Update product quantity and price
+- 🔐 Input validation
+- 📊 Support for up to 100 products
 
-- Add new products
-- View all products
-- Search for a product by ID
-- Update product quantity and price
+## 🛠️ Technologies Used
+- C++
+- Standard Input/Output
+- Arrays & Loops
+- Basic Error Handling
 
-## 🛠️ Tech Stack
+## ▶️ How to Run
 
-- Language: C++
-- Compiler: g++ / Visual Studio / Code::Blocks
+If using a local compiler (like `g++`):
+```bash
+g++ InventorySystem.cpp -o inventory
+./inventory
+Or use any online C++ compiler:
 
-## 📂 How to Run
+https://replit.com/
 
-1. Clone the repository:
-   ```bash
-  
+https://www.onlinegdb.com/
+
+https://www.programiz.com/cpp-programming/online-compiler
+
+📂 Files
+InventorySystem.cpp → Main C++ source code
+
+README.md → Project description
+
