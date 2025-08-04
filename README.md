@@ -55,4 +55,7 @@ InventorySystem.cpp      // Main C++ source file
 README.md                // Project documentation
 
 ##📧 Contact
-Built by Saif Emara
+## 🔗 Author
+
+**Saif Emara**  
+GitHub: [@saif-emara](https://github.com/saif-emara)
